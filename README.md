@@ -20,4 +20,13 @@ Here is the source code and the value of different options in *Indices.php*
 	<option value="53">Others</option>
 ```
 
+Pick the corresponding value to extract the data from the available options
+
+```python
+postdata= {  
+    'topTenBased' : '58', #value from Select menu (NEPSE) 
+    'Submit' : 'Submit'
+    }
+```
+
 [rvibek](http://rvibek.com.np/extract-nepse-data/)
