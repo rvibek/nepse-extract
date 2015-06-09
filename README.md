@@ -4,7 +4,7 @@ The following script extacts data from Datewise Idices depending upon the value 
 The page uses POST method to pass the variable topTenBased from the select object and then same page loads the data accordingly. I hadn't pulled the data from page using POST before.
 
 Here is the source code and the value of different options in *Indices.php*
-`
+```
 	<option value="58">NEPSE</option>
 	<option value="57">Sensitive</option>
 	<option value="62">Float</option>
@@ -18,6 +18,6 @@ Here is the source code and the value of different options in *Indices.php*
 	<option value="59">Insurance</option>
 	<option value="56">Manu.& Pro.</option>
 	<option value="53">Others</option>
-`
+```
 
 [rvibek](http://rvibek.com.np/extract-nepse-data/)
