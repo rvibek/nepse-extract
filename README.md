@@ -1,4 +1,5 @@
-#NEPSE Extract
+# NEPSE Extract
+
 The following script extacts data from Datewise Idices depending upon the value passed - NEPSE, Sensitive, Float, Banking, Hotels indices are extracted.
 
 The page uses POST method to pass the variable topTenBased from the select object and then same page loads the data accordingly. I hadn't pulled the data from page using POST before.
