@@ -28,5 +28,4 @@ postdata= {
     'Submit' : 'Submit'
     }
 ```
-
-[rvibek](http://rvibek.com.np/extract-nepse-data/)
+[http://rvibek.com.np/extract-nepse-data/](https://rvibek.com.np/extract-nepse-data.html)
